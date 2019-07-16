@@ -1,6 +1,6 @@
 # ML-Books
 
-## Original Links and you get some in repo too
+## Original Links
 
 ### Book 1: Incognito: the Secret Lives of the Brain by David Eaglemann
 https://fatimekerimli.files.wordpress.com/2016/09/david-eagleman-incognito.pdf
