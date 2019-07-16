@@ -14,7 +14,8 @@ https://github.com/rasbt/python-machine-learning-book-2nd-edition
 
 ### Book 5 - Probabilistic Programming and Bayesian Methods for Hackers by Cameron Davidson
 https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
-###Book #6 - Grokking Deep Learning by Andrew Trask
+
+### Book #6 - Grokking Deep Learning by Andrew Trask
 https://github.com/ontiyonke/Free-Deep-Learning-Books/blob/master/book/Grokking%20Deep%20Learning%20-%20MEAP%20v10.pdf
 ### Book #7 - Doing Data Science: Straight Talk From The Frontline by Rachel Schutt
 https://github.com/SayantanMitra87/Data-Science-Books-1/blob/master/Doing%20Data%20Science%20Straight%20Talk%20from%20the%20Frontline.pdf
